@@ -5,7 +5,45 @@ This is a program to be used after a document is written, to do the initial chec
 
 ###### **how to install**
 
-[Click here](https://github.com/there-are-higher-beings/quickfix/archive/main.zip) to download the zip file. Alternitivly you can click on the `[⬇CODE]` in green. Once it is downloaded, the platform correct `quickfix` can be opened and run, to launch a terminal window for the code to be run.
+[Click here](https://github.com/there-are-higher-beings/quickfix/archive/main.zip) to download the zip file. Alternitivly you can click on the `[⬇CODE]` in green. Once it is downloaded, follow the platform specific instructions below to install `quickfix`.
+
+***for pc***
+
+simply double click on `quickfix.exe` for it to run
+
+***for mac***
+
+for mac we need to go to `quickfix`'s directory
+then change the name of the program from `quickfix.py` to `quickfix.command`
+and then turn it into an executable by typing in `chmod +x quickfix.command`
+
+heres how to do that:
+1. open up a terminal window, and keep it open beside these instructions
+2. open up a finder window that contains QUICKFIX
+3. go to the terminal window and type in [cd ] (without the square brackets but with the space)
+4. from finder, drag quickfix.py into the terminal window
+5. click the right-arrow key to deselect the path and delete [quickfix.py] from the terminal line
+
+	at this point the terminal command line should look like:
+		cd /Users/YOURNAME/FOLDER/FOLDER 
+
+	(idk how many folders there are on your pc, it should be different for everyone)
+
+
+6. if the terminal line is as above, press `return` (or enter)
+
+7. paste in:
+	>`md quickfix.py quickfix.command`
+
+	and press `return` (or enter)
+
+8. paste in:
+	>`chmod +x quickfix.command`
+
+	and press `return` (or enter)
+
+you are then free to double click on `quickfix.command` whenever you would like to use it
+
 
 ###### **how to use `quickfix`**
 
