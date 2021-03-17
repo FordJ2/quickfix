@@ -7,9 +7,9 @@ This is a program to be used after a document is written, to do the initial chec
 
 [Click here](https://github.com/there-are-higher-beings/quickfix/archive/main.zip) to download the zip file. Alternitivly you can click on the `[⬇CODE]` in green. Once it is downloaded, the platform correct `quickfix` can be opened and run, to launch a terminal window for the code to be run.
 
-###### **how to use it**
+###### **how to use `quickfix`**
 
-1. launch it
+1. launch
 2. paste in the text you would like to fix
 3. choose what you want to do with the text from the list of options
 4. copy the outputted text
