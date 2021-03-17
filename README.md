@@ -21,6 +21,7 @@ This is a program to be used after a document is written, to do the initial chec
 
 ###### **to do**
 
-- [x] create 1.0.0 and get `quickfix` operational as a `.py` file
+- [x] create 1.0.0
+- [x] get `quickfix` operational as a `.py` file
 - [x] create an `.exe` file that works on all Windows platforms
 - [ ] create a `.command` file that works on all Mac platforms
