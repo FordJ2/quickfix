@@ -18,3 +18,9 @@ This is a program to be used after a document is written, to do the initial chec
 ###### **how it works**
 
 `Quickfix` was developed in python to work in inside of Terminal *(command prompt on pc)* for user interaction. It takes advatage of different string manipulation funcions that come with Python, as well as a [spellchecker](https://pypi.org/project/pyspellchecker/).
+
+###### **to do**
+
+- [x] create 1.0.0 and get it working
+- [x] create an `.exe` file that works on all Windows platforms
+- [ ] create a `.command` file that works on all Mac platforms
