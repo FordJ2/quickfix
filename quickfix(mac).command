@@ -94,7 +94,7 @@ while((num % 2) == 0):
 		formal = input('Yes or No\n-->')
 
 		#formal
-		if formal.strip().lower() == 'yes' or formal.strip().lower() == 'y' or formal.strip().lower() == 'ye' or formal.strip().lower() == 'ya' or formal.strip().lower() == 'e' or formal.strip().lower() == 'es':
+		if formal.strip().lower() == 'yes' or formal.strip().lower() == 'y':
 			time.sleep(1)
 			
 			userSTR = userSTR.replace('. ', ' . ').replace('! ', ' ! ').replace('? ', ' ? ')
