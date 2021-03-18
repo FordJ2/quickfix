@@ -66,4 +66,4 @@ you are then free to double click on `quickfix.command` whenever you would like 
 - [x] get `quickfix` operational as a `.py` file
 - [x] create a `.exe` file that works on all Windows platforms
 - [x] create a `.command` file that works on all Mac platforms
-- [ ] make the README readable
+- [x] make the README readable
