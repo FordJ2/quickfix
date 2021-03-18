@@ -16,9 +16,8 @@ simply double click on `quickfix.exe` for it to run
 
 ***for mac***
 
-for mac we need to go to `quickfix`'s directory
-then change the name of the program from `quickfix.py` to `quickfix.command`
-and then turn it into an executable by typing in `chmod +x quickfix.command`
+for mac we need to go to `quickfix`'s directory, change the name of the program from `quickfix.py` to `quickfix.command`
+and then turn it into an executable by typing in `chmod +x quickfix.command` in the terminal command prompt
 
 heres how to do that:
 1. open up a terminal window, and keep it open beside these instructions
