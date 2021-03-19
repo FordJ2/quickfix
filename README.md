@@ -66,3 +66,4 @@ you are then free to double click on `quickfix.command` whenever you would like 
 - [x] create a `.exe` file that works on all Windows platforms
 - [x] create a `.command` file that works on all Mac platforms
 - [x] make the README readable
+- [ ] add a grammar module
