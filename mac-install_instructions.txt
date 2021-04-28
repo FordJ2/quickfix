@@ -1,5 +1,5 @@
 THESE INSTRUCTIONS ARE EASIER TO UNDERSTAND ON THE GITHUB README
-https://github.com/there-are-higher-beings/quickfix/blob/main/README.md
+https://github.com/wncry/quickfix/blob/main/README.md
 
 1. open up a terminal window, and keep it open beside these instructions
 2. open up a finder window that contains QUICKFIX
