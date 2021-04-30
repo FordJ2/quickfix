@@ -310,7 +310,7 @@ def main():
 		formal = input('Yes or No\n-->')
 
 		#formal
-		if formal.strip().lower() == 'yes' or formal.strip().lower() == 'y' or formal.strip().lower() == 'ye' or formal.strip().lower() == 'ya' or formal.strip().lower() == 'e' or formal.strip().lower() == 'es':
+		if formal.strip().lower() == 'yes' or formal.strip().lower() == 'y':
 			time.sleep(1)
 
 			newtext = grammar(userSTR)
@@ -497,7 +497,7 @@ def main():
 		time.sleep(0.5)
 		repeat = input('Yes or No\n-->')
 
-		if repeat.strip().lower() == 'yes' or repeat.strip().lower() == 'y' or repeat.strip().lower() == 'ye' or repeat.strip().lower() == 'ya' or repeat.strip().lower() == 'e':
+		if repeat.strip().lower() == 'yes' or repeat.strip().lower() == 'y':
 
 			#intro input
 			time.sleep(1.5)
