@@ -4,7 +4,7 @@ A promotional video on what this is:
 https://www.youtu.be/1s9--S-5-Kg
 
 ###### **what is this**
-This is a terminal program that fixes inputted sentences to the best they can be. It saves time by doing that first lookover to catch all the small spelling errors as well as well as grammar errors as well. Simply paste in the desired text, and `quickfix` will quickly and efficiently fix up your document. `quickfix` has not been extensivly tested, so while it is in its initial stages, `quickfix` will have a feedback option embeded directly into the program for you to report bugs, recommend features, or just show your appreciation. _pls dont spam :)_ Alternatively you are able to leave [editorial requests within GitHub](https://github.com/wncry/quickfix/pulls) for everyone to see and be aware of.
+This is a terminal program that fixes inputted sentences to the best they can be. It saves time by doing that first lookover to catch all the small spelling errors as well as well as grammar errors as well. Simply paste in the desired text, and `quickfix` will quickly and efficiently fix up your document. `quickfix` has not been extensivly tested, so please leave [editorial requests within GitHub](https://github.com/wncry/quickfix/pulls) for everyone to see and be aware of.
 
 ###### **how to install**
 
