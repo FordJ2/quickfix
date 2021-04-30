@@ -1,13 +1,5 @@
-#!/usr/bin/env python3
-import getpass
 import language_tool_python
-import smtplib
 import time
-from datetime import date
-from email.mime.base import MIMEBase
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from email import encoders
 
 def main():
 	def formal(x):
