@@ -15,7 +15,7 @@ This is a terminal program that fixes inputted sentences to the best they can be
 3. Once step 2 is complete, type or copy in `pip install language-tool-python` into your platform specific window.
 5. You are ready to use `quickfix`! Follow the *how to use* instructions below, to figure out how it works.
 
-###### **how to use `quickfix`**
+###### **how to use it**
 
 1. Launch the python file. *(on mac you will need to run the program from `Idle`)*
 2. Paste in the text you would like to fix.
