@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import getpass
 import language_tool_python
-import os
 import smtplib
 import time
 from datetime import date
