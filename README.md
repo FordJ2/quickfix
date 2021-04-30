@@ -8,7 +8,7 @@ This is a terminal program that fixes inputted sentences to the best they can be
 
 ###### **how to install**
 
-[Click here](https://github.com/wncry/quickfix/archive/main.zip) to download the zip file. Alternitivly you can click on the `[⬇CODE]` in green. Once it is downloaded, follow the specific instructions below to install `quickfix`.
+[Click here](https://github.com/wncry/quickfix/archive/main.zip) to download the zip file. Alternitivly you can click on the `[⬇CODE]` in green. Once it is downloaded, follow the specific instructions below to finish installing the program.
 
 1. Download and install the latest version of python: https://www.python.org/downloads/.
 2. After completely installing python, open up either `Terminal` on Mac, or `Command Prompt` on Windows.
