@@ -17,7 +17,7 @@ This is a terminal program that fixes inputted sentences to the best they can be
 
 ###### **how to use it**
 
-1. Launch the python file. *(on mac you will need to run the program from `Idle`)*
+1. Launch the python file. *(on mac you will need to run the program from `Idle` by pressing f5 inside the application)*
 2. Paste in the text you would like to fix.
 3. Choose what you want to do with the text from the list of options.
 4. Copy the outputted text.
