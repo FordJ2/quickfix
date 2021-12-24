@@ -1,4 +1,6 @@
-## README
+this project was created for a class last year. its not great, but i got the marks lol
+
+## QUICKFIX
 
 A promotional video on what this is:
 https://www.youtu.be/1s9--S-5-Kg
