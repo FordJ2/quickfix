@@ -1,4 +1,4 @@
-this project was created for a class last year. its not great, but i got the marks lol
+this project was created for a class in 2020. its not great, but i got the marks lol
 
 ## QUICKFIX
 
