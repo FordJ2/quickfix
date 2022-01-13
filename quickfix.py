@@ -1,5 +1,4 @@
-import language_tool_python
-import time
+import language_tool_python, time
 
 def main():
 	def formal(x):
