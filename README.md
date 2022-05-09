@@ -1,3 +1,4 @@
+## depricated
 this project was created for a class in 2020. its not great, but i got the marks lol
 
 ## QUICKFIX
